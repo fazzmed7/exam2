@@ -1,8 +1,7 @@
 # Example 2
 import streamlit as st
-python -m install plotly
-import plotly.express as px
 import pandas as pd
+import plotly.express as px
 
 # Load Sample Data
 df = px.data.gapminder()
